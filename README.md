@@ -1,6 +1,7 @@
 "# media-merge" 
 
 This script will cleanup movie and tv libraries.
+
 *Merge*
  - renames directory names to a common format
  - merges multiple directories with the same title together
